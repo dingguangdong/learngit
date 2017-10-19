@@ -9,3 +9,4 @@ git is 334355
 Git has a mutable index called stage.
 GIt modify
 git is shit
+git is shit tt
