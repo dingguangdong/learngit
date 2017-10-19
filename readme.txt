@@ -7,3 +7,5 @@ Git is 44555
 git is 123456
 git is 334355
 Git has a mutable index called stage.
+GIt modify
+git is shit
