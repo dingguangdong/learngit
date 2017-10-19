@@ -10,3 +10,4 @@ Git has a mutable index called stage.
 GIt modify
 git is shit
 git is shit tt
+git is ssss
